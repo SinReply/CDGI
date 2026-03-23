@@ -75,7 +75,7 @@ Este software está protegido por la Ley de Propiedad Intelectual de España (Re
 - Prohibida la redistribución, modificación, publicación, venta o uso comercial sin autorización expresa por escrito del autor.  
 - Para cualquier consulta o permiso contactar al autor.
 
-Ver encabezado de [`Damage.py`](./Damage.py) ó [`LICENCIA.md`](./LICENCIA.md) para más detalles legales.
+Ver encabezado de [`Damage.py`](./Damage.py) ó [`LICENCIA.md`](./LICENSE.md) para más detalles legales.
 
 ## Requisitos
 
